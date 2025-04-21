@@ -1,0 +1,14 @@
+🧪 Case Study 1: Cancer Genomics
+A 52-year-old woman is diagnosed with breast cancer. Her tumor biopsy is sequenced, and multiple mutations are found in TP53, BRCA1, and a previously uncharacterized gene labeled “GENX1.” Your task is to analyze these mutations and determine their potential role in cancer development.
+
+🧬 Case Study 2: Comparative Genomics
+You’re given the genome sequences of zebrafish and humans. Your goal is to identify genes conserved between the two, and analyze whether these genes are involved in developmental processes.
+
+🧫 Case Study 3: Microbial Genomics
+A newly discovered bacterial strain shows resistance to multiple antibiotics. You’re tasked with finding the genes responsible for resistance and determining whether they were acquired through horizontal gene transfer.
+
+🌍 Case Study 4: Evolution & Phylogenomics
+You’re analyzing four plant species and notice that two of them share a large number of gene duplications. Your task is to determine whether this is due to a whole genome duplication event and estimate when it happened.
+
+🧪 Case Study 5: Applied Genomics – Pharmacogenomics
+A patient is prescribed a blood thinner but has an adverse reaction. Genetic testing reveals a variation in the CYP2C9 gene. How would you analyze this variation, and what implications does it have for treatment?
